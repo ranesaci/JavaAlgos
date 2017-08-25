@@ -9,6 +9,10 @@ import java.util.Arrays;
 
 In every iteration of selection sort, the minimum element (considering ascending order) from the unsorted subarray is picked and moved to the sorted subarray.
 */
+/**
+ * @author sachin4java@blogspot.com
+ *
+ */
 public class SelectionSort {
 
 	public static void main(String[] args) {
